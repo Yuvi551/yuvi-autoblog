@@ -1,7 +1,7 @@
-baseURL: https://example.org/
+baseURL: https://Yuvi551.github.io/yuvi-autoblog/
 languageCode: en-us
 title: My New Hugo Site
 
-baseURL: /
+baseURL: https://Yuvi551.github.io/yuvi-autoblog/
 title: Yuvi Auto Blog
 theme: ananke
