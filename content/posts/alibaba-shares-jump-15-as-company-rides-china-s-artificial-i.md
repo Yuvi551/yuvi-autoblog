@@ -1,0 +1,12 @@
+---
+title: "Alibaba shares jump 15% as company rides China's Artificial Intelligence growth wave - Mint"
+date: 2025-09-02T02:30:04.307468+00:00
+---
+
+## Alibaba shares jump 15% as company rides China's Artificial Intelligence growth wave - Mint
+
+Summary of Alibaba shares jump 15% as company rides China's Artificial Intelligence growth wave - Mint. Source: https://news.google.com/rss/articles/CBMi5wFBVV95cUxQc0xfUGRCLTRWMmVkMm51VWhacTBheHZIOXRzUnFIWlR4WHQxNXd5SlhCTjFxeTFRRGZteWU3VkJWQUhiUzZMTmZSLXprTzhadnBJZm5pWXRiY0FOd2doRjFFdjRGS0VLS0lDUXkzdi0tb0p4Ul84ejdNZ0VyRHRXa0hGVng2elJad2diUXFtdG00RFNCemwxcnBHSnU0TUM2QXMzYi1kZEdwcUFLWTN3Zk9jZzRWbzdiOEUyYjFUNTA3Q1dKY3VGSXBvN0JEQ2VOYjR3aGdWb2h1bDdpTmRLa1VFbmNNTnfSAewBQVVfeXFMUDhYbVg2SHFKSExLYlFlOGVtLWNVMXFuNkdOUWtRczFrXzctOVkyN21iYU1zdkp4WVR4amJEMzJBRzdnUmZPSDFYYTh4UFFxQ29zeUlfWmNRa0pfLTRYWXVHTUhQMUJaeXBESmhZTlUzNXZkenFERkVDWFNlYmQzN0ZuZ3ZFNUJUQVFxdVRFa3Vvc2FHeUhIamhVTkEtbUVxT282MzY0b1pFdHpOa2RueF9ybVVuSzkyUkFMd3hULXlvZk9MZDlaUVVBVXZYS096eUM4MWk3TS1WcFhKei14em9Kay1oc0ZLU1g2cUw?oc=5
+
+- Key point 1
+- Key point 2
+
