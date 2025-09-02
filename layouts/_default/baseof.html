@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en" }}">
+  <head>
+    {{ partial "head.html" . }}
+    {{- partial "site-header.html" . | default "" -}}
+    {{- partial "head" . | default "" -}}
+    {{- block "head" . }}{{ end -}}
+    <meta charset="utf-8">{{ hugo.Generator }}
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    {{- partial "meta.html" . | default "" -}}
+    {{- partial "favicon.html" . | default "" -}}
+    {{ $styles := resources.Get "scss/ananke.scss" | resources.ToCSS | resources.Minify }}
+    <link rel="stylesheet" href="{{ $styles.RelPermalink }}">
+    <title>{{ block "title" . }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+  </head>
+  <body class="ma0 avenir bg-near-white">
+    {{ block "main" . }}{{ end }}
+  </body>
+</html>

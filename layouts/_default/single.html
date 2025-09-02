@@ -1,0 +1,18 @@
+{{ define "main" }}
+<main class="pa3 pa4-ns w-100 w-70-ns center">
+  <article class="w-100">
+    <h1 class="f2">{{ .Title }}</h1>
+    <p class="mid-gray">Published on {{ .Date.Format "02 Jan 2006" }}</p>
+
+    {{ $content := .Content }}
+    {{ $parts := split $content "</p>" }}
+    {{ if ge (len $parts) 2 }}
+      {{ (index $parts 0) | safeHTML }}</p>
+      {{< adsense >}}
+      {{ delimit (slice (delimit (after 1 $parts) "</p>")) "" | safeHTML }}
+    {{ else }}
+      {{ .Content }}
+    {{ end }}
+  </article>
+</main>
+{{ end }}
